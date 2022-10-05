@@ -16,6 +16,8 @@ I use jlcpcb. You can order all the pcbs with the standard settings.
 
 The build is relatively straight forward, apart from the standing resistors which are kind of annoying.
 
+schematic and bom are split between the two boards, as that's how voxmachina had his project set up. So just order components from both bom files
+
 # Tuning
 I simplified the sin shaping circuit so there is only one trimmer (for the saw shaper).
 As for how to tune it, check out [voxmachina's videos on the module on youtube](https://www.youtube.com/watch?v=DsVzbcYWhuM&t=31s).
