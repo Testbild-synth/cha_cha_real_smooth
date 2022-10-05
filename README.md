@@ -14,7 +14,7 @@ I spaced them in a way that wasn't too confusing.
 You can simply order the pcbs as-is on any pcb manufacturing site, 
 I use jlcpcb. You can order all the pcbs with the standard settings.If for some reason the dimensions for the front panel
 are not entered (happens to me sometimes on jlc), put them as 128.5x20mm.
-<img src="images/panel.png" width="20%" height="20%"><img src="images/control_pcb.png" width="20%" height="20%"><img src="images/main_pcb.png" width="20%" height="20%">
+<img src="images/panel.png" width="10%" height="10%"><img src="images/control_pcb.png" width="13%" height="13%"><img src="images/main_pcb.png" width="13%" height="13%">
 
 The build is relatively straight forward, apart from the standing resistors which are kind of annoying.
 
